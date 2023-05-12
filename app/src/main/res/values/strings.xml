@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Priyansha_Final</string>
+    <string name="app_name">ToDoApp</string>
+    <string name="splash_text">"To-do List App "</string>
+    <string name="list_desc">Enter a Description</string>
+    <string name="title">Enter a Title</string>
+    <string name="confirm_del">Confirm Delete?</string>
+    <string name="no_del">No</string>
+    <string name="yes_del">Yes</string>
 </resources>
