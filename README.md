@@ -15,9 +15,9 @@ DELETE<br />
 Deleteing task by clicking the task you want to delete.Opens the update activity, at the menu top right there is a delete icon .After pressing the icon it gives us an confirmation dialogue box.<br/>
 ![](GIF/Delete.gif)<br /><br /><br />
 
-INSERT<br />
-Inserting new task but clicking the add button in the bottom right.Automatically adds date.<br/>
-![](GIF/Insert.gif)<br /><br /><br />
+ROTATE<br />
+Rotating the screen and everything still works perfectly.<br/>
+![](GIF/Rotate.gif)<br /><br /><br />
 
 SORT BY TITLE<br />
 Arranging the tasks in ascending order accordin to their title.Added a custom main menu where sort option is available<br/>
